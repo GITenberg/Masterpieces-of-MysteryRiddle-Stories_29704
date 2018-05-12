@@ -1,0 +1,33 @@
+_repo: Masterpieces-of-MysteryRiddle-Stories_29704
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: French, Joseph Lewis
+    birthdate: 1858
+    deathdate: 1936
+    gutenberg_agent_id: '8001'
+    url: http://www.gutenberg.org/2009/agents/8001
+description: ''
+gutenberg_issued: '2009-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29704'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Ghost stories'
+- !lcc 'PN'
+- !lcsh 'Detective and mystery stories'
+tableOfContents: "The Mysterious Card / Cleveland Moffett\r\nThe Great Valdez Sapphire\
+  \ / Anonymous\r\nThe Oblong Box / Edgar Allan Poe\r\nThe Birth Mark / Nathaniel\
+  \ Hawthorne\r\nA Terribly Strange Bed / Wilkie Collins\r\nThe Torture by Hope /\
+  \ Villiers de l'Isle Adam\r\nThe Box with the Iron Clamps / Florence Marryat\r\n\
+  My Fascinating Friend / William Archer\r\nThe Lost Room / Fitz-James O'Brien."
+title: 'Masterpieces of Mystery in Four Volumes: Riddle Stories'
+url: http://www.gutenberg.org/ebooks/29704
